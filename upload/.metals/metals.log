@@ -1,0 +1,5 @@
+INFO  time: initialize in 0.97s
+WARN  no build tool detected in workspace 'E:\Learn_Study\Các môn h?c trong các h?c k?\HK-191-2019-2020\Nguyên lý ngôn ng? l?p trình\Assignment3\assignment3\upload'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: E:\Learn_Study\Các môn h?c trong các h?c k?\HK-191-2019-2020\Nguyên lý ngôn ng? l?p trình\Assignment3\StaticCheck.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
