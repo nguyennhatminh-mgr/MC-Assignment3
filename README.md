@@ -1,2 +1,2 @@
 # MC-Assignment3
-# Please read file assignment.pdf for more information
+# Please read file assignment3.pdf for more information
